@@ -1,0 +1,19 @@
+{
+  "name": "node_symbion",
+  "version": "1.0.0",
+  "description": "jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symbion12/sf_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Symbion12/sf_site/issues"
+  },
+  "homepage": "https://github.com/Symbion12/sf_site#readme"
+}
